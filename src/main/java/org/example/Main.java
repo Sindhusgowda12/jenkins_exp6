@@ -3,7 +3,7 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, Maven");
-        System.out.println("This is the simple realworld example....");
+        System.out.println("Adding two numbers");
 
         int a = 5;
         int b = 10;
